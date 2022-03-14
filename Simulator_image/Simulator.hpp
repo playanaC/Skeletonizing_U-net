@@ -754,7 +754,7 @@ void Simulate(std::string path_tracks, std::string path_backgrounds, std::string
     CC2 = Bry[randon_background];
                 
     newSubFolderF = "";
-    newSubFolderF = newSubFolder + " day = " + std::to_string(day_init_exp) + " cond = X pla = 1 living_worms = " + std::to_string(worms) + "/";
+    newSubFolderF = newSubFolder + "day = " + std::to_string(day_init_exp) + " cond = X pla = 1 living_worms = " + std::to_string(worms) + "/";
 //     check = mkdir(newSubFolderF.c_str());
     check = mkdir(newSubFolderF.c_str(),S_IRWXU | S_IRWXG | S_IROTH | S_IXOTH); //ubuntu<19.04
 
