@@ -14,7 +14,7 @@
 
 
 # Image adquisition system:
-- Images were captured by an [open hardware system](https://github.com/JCPuchalt/c-elegans_smartLight).
+- Images were captured by an [open hardware system](https://github.com/JCPuchalt/SiViS).
 
 
 # References:
