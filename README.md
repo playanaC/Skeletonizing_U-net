@@ -1,7 +1,7 @@
 # Skeletonizing_Unet
 
 # Simulator_image pipeline
-![GitHub Logo](https://github.com/playanaC/Skeletonizing_Unet/blob/main/Simulator_image%20pipeline.PNG)
+![GitHub Logo](https://github.com/playanaC/Skeletonizing_Unet/blob/main/Simulator_image%20pipeline.png)
 
 
 # Datasets pipeline
